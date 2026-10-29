@@ -1,0 +1,6 @@
+{
+  "name": "InternHub - Internship Platform",
+  "description": "Full-stack internship platform connecting ambitious students with top companies offering verified internships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
